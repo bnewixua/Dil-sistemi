@@ -1,2 +1,2 @@
-# Dil-sistemi
+# dil-sistemi
 Basit dil sistemi
